@@ -3,11 +3,8 @@
 Buckup your uncommited Git branch changes
 
 Include & Support:
-1) Source file dialog with user for definition extract
-2) Target table creation (New table / Generated table)
-3) Row count limitation for ETL data load
-4) Database Create / Truncate / Insert table (DDL)
-5) Summary Report 
+1) Setup dialog steps with user for setting paths.
+2) Git branch summary log 
 
 Version : 1.0v
 
