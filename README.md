@@ -1,6 +1,6 @@
 # Git - Backup your Uncommitted GIT Branch
 
-Buckup your uncommited Git branch changes
+Backup your uncommitted Git branch changes
 
 Include & Support:
 1) Setup dialog steps with user for setting paths.
