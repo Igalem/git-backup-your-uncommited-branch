@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+  <img src="_static/logo.png" height="250">
+</p>
+
 # Git - Backup your Uncommitted GIT Branch
 
 Backup your uncommitted Git branch changes
